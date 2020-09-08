@@ -1,0 +1,13 @@
+#
+# This file is intended to list Harmony Community packages
+#
+catalog:
+    format-version: "1.0.0"
+    name: "Microchip MPLAB Harmony 3 - Community"
+
+    host:
+        url: "github.com"
+        path: "/Microchip-MPLAB-Harmony/"
+        raw_file_url_pattern: "https://raw.githubusercontent.com/Microchip-MPLAB-Harmony/{REPO_NAME}/{BRANCH-NAME/TAG-NAME}/{FILE-NAME}"
+
+        packages:
